@@ -1,71 +1,67 @@
-<h1 align="center">Xin chào, mình là Nguyễn Tấn Yên 👋</h1>
-<p align="center">
-  <b>Sinh viên HCMUTE · Hướng tới AI Engineer ứng dụng</b><br/>
-  Mình thích biến bài toán thật thành sản phẩm chạy được: hiểu vấn đề, cài đặt, đo bằng số liệu.
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
+# Nguyễn Tấn Yên
+
+**AI · Data · Problem Solving**
+Sinh viên Trường Đại học Công nghệ Kỹ thuật TP.HCM (HCMUTE) · Khóa 2023
+
+<a href="https://www.facebook.com/tanyen.nty"><img src="https://img.shields.io/badge/Facebook-tanyen.nty-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+
+</div>
 
 ---
 
-## 🎯 Về mình
+### Về mình
 
-- 🎓 Sinh viên Trường Đại học Công nghệ Kỹ thuật TP.HCM (HCMUTE), khóa 2023
-- 🧠 Quan tâm: **AI ứng dụng**, học tăng cường, học máy và phân tích dữ liệu
-- 🛠️ Cách mình làm: hiểu bài toán trước → cài đặt nhiều hướng giải → so sánh bằng số liệu để chọn cách phù hợp
-- 🌱 Đang học: LLM/RAG, triển khai mô hình AI vào sản phẩm thực tế
+Mình quan tâm đến **AI ứng dụng, học tăng cường và phân tích dữ liệu**. Cách mình làm việc: hiểu rõ bài toán trước, thử nhiều hướng giải, rồi so sánh bằng số liệu để chọn cách phù hợp nhất. Hiện mình đang học thêm về **LLM/RAG** và cách đưa mô hình AI vào sản phẩm thực tế.
 
 ---
 
-## 🚀 Dự án nổi bật
+### Dự án
 
-### 1. 8-Puzzle Solver với 20+ thuật toán AI — [`AI`](https://github.com/NguyenTanYen/AI)
-> Đồ án cá nhân môn Trí tuệ nhân tạo · [🎬 Video demo](https://www.youtube.com/watch?v=DThnyYT705Q)
+<table>
+<tr>
+<td width="45%" valign="top">
+  <a href="https://github.com/NguyenTanYen/AI"><img src="https://github.com/NguyenTanYen/AI/raw/main/GIF/6.A%28SAO%29.gif" width="100%" alt="A* giải 8-Puzzle"/></a>
+</td>
+<td width="55%" valign="top">
 
-Cài đặt và so sánh 6 nhóm thuật toán trên cùng một bài toán. Dự án có GUI trực quan hóa từng bước giải và hiển thị thời gian chạy, số bước, số trạng thái đã duyệt.
+#### 🧩 8-Puzzle Solver · 20+ thuật toán AI
+Đồ án cá nhân môn Trí tuệ nhân tạo. Cài đặt và so sánh **6 nhóm thuật toán** trên cùng một bài toán, có GUI trực quan hóa từng bước và đo thời gian chạy, số bước, số trạng thái đã duyệt.
 
-| Nhóm | Thuật toán |
-|---|---|
-| Tìm kiếm không thông tin | BFS, DFS, UCS, IDS |
-| Tìm kiếm có thông tin | Greedy Best-First, **A\***, IDA\* (heuristic Manhattan, Misplaced Tiles) |
-| Tìm kiếm cục bộ | Simple / Steepest / Stochastic Hill Climbing, Simulated Annealing, Genetic Algorithm, Beam Search |
-| Môi trường phức tạp | AND-OR Search, Belief State, Partially Observable, No Observation |
-| Bài toán ràng buộc (CSP) | Constraint Testing, Backtracking, Backtracking + AC-3 |
-| Học tăng cường | **Q-Learning** |
+`BFS` `DFS` `UCS` `IDS` `Greedy` `A*` `IDA*` `Hill Climbing` `Simulated Annealing` `Genetic` `Beam` `AND-OR` `Belief State` `Backtracking + AC-3` `Q-Learning`
 
-**Kết quả rút ra:** A\* cân bằng tốt nhất giữa tốc độ và lời giải tối ưu. IDA\* phù hợp khi bộ nhớ hạn chế. Simulated Annealing và Genetic Algorithm thoát cực trị địa phương tốt hơn Hill Climbing.
+[Xem code](https://github.com/NguyenTanYen/AI) · [Video demo](https://www.youtube.com/watch?v=DThnyYT705Q)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 Phân tích thị trường tuyển dụng IT
+Khai phá luật kết hợp giữa các kỹ năng, so sánh mô hình dự đoán mức lương (Gradient Boosted Trees), phân tích kỹ năng hiếm, xu hướng remote và khối OLAP theo cấp bậc × địa điểm × kinh nghiệm.
+
+[Xem repo](https://github.com/NguyenTanYen/BigData)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏎️ Data Warehouse Formula 1
+Thiết kế kho dữ liệu cho bộ dữ liệu F1: quy trình ETL bằng SSIS và khối phân tích đa chiều bằng SSAS, phục vụ truy vấn và báo cáo.
+
+[Xem repo](https://github.com/NguyenTanYen/DWH_DACK)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 2. Phân tích dữ liệu thị trường tuyển dụng IT — [`BigData`](https://github.com/NguyenTanYen/BigData)
-Khai phá luật kết hợp giữa các kỹ năng, so sánh mô hình dự đoán mức lương (Gradient Boosted Trees), phân tích kỹ năng hiếm, xu hướng làm việc remote và khối OLAP theo cấp bậc × địa điểm × số năm kinh nghiệm.
+### Công cụ
 
-### 3. Kho dữ liệu (Data Warehouse) Formula 1 — [`DWH_DACK`](https://github.com/NguyenTanYen/DWH_DACK)
-Xây dựng quy trình ETL với **SSIS** và khối phân tích đa chiều với **SSAS** trên bộ dữ liệu F1.
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" alt="skills"/>
 
----
-
-## 🧰 Kỹ năng
-
-| Mảng | Công cụ |
-|---|---|
-| AI / ML | Thuật toán tìm kiếm, tối ưu cục bộ, CSP, Q-Learning, Gradient Boosting, luật kết hợp |
-| Dữ liệu | Python, Pandas, SQL (MySQL, SQL Server, T-SQL), SSIS, SSAS, OLAP |
-| Công cụ | Git, GitHub |
-
----
-
-## 📫 Liên hệ
-
-- 📘 Facebook: [tanyen.nty](https://www.facebook.com/tanyen.nty)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenTanYen&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTanYen&layout=compact&hide_border=true" height="150"/>
-</p>
+`Pandas` `SQL Server` `T-SQL` `SSIS` `SSAS` `OLAP`
