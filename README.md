@@ -2,18 +2,13 @@
 
 # Nguyễn Tấn Yên
 
-**AI · Data · Problem Solving**
-Sinh viên Trường Đại học Công nghệ Kỹ thuật TP.HCM (HCMUTE) · Khóa 2023
+**AI · Data · Problem Solving**<br/>
+Sinh viên Trường Đại học Công nghệ Kỹ thuật TP.HCM (HCMUTE) · Khóa 2023<br/>
+Quan tâm: AI ứng dụng · Học tăng cường · Phân tích dữ liệu
 
 <a href="https://www.facebook.com/tanyen.nty"><img src="https://img.shields.io/badge/Facebook-tanyen.nty-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 
 </div>
-
----
-
-### Về mình
-
-Mình quan tâm đến **AI ứng dụng, học tăng cường và phân tích dữ liệu**. Cách mình làm việc: hiểu rõ bài toán trước, thử nhiều hướng giải, rồi so sánh bằng số liệu để chọn cách phù hợp nhất. Hiện mình đang học thêm về **LLM/RAG** và cách đưa mô hình AI vào sản phẩm thực tế.
 
 ---
 
