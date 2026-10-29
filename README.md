@@ -6,7 +6,7 @@
 Sinh viên Trường Đại học Công nghệ Kỹ thuật TP.HCM (HCMUTE) · Khóa 2023<br/>
 Quan tâm: AI ứng dụng · Học tăng cường · Phân tích dữ liệu
 
-<a href="https://www.facebook.com/tanyen.nty"><img src="https://img.shields.io/badge/Facebook-tanyen.nty-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/tanyen.nty"><img src="https://img.shields.io/badge/Facebook-nguyentanyen.nty-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 
 </div>
 
